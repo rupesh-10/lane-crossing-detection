@@ -8,7 +8,7 @@ input_file = './example.txt'
 
 mask = cv2.imread('./mask.png', -1)
 
-imgs_dir = '/media/phillip/FELIPE/youtube/computer_vision/08_illegal_lane_crossing_detection/code/input_lane_crossing/imgs'
+# imgs_dir = '/media/phillip/FELIPE/youtube/computer_vision/08_illegal_lane_crossing_detection/code/input_lane_crossing/imgs'
 
 
 def get_region(bbox, mask):
